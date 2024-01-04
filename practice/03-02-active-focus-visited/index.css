@@ -1,0 +1,10 @@
+.button1 {
+  background: red;
+}
+
+.input1:focus {
+  background: green;
+}
+.link1:visited {
+  color: blue;
+}
